@@ -4,6 +4,11 @@ import math
 from collections import defaultdict, Counter
 import matplotlib.pyplot as plt
 
+a = 'hola'
+a.count
+a = int(input("ingresa"))
+b = int(input("otrop"))
+
 # ---------- DATOS DE ENTRADA ----------
 corpus = [
     "La inteligencia artificial es fascinante",
