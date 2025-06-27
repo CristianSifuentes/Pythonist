@@ -99,7 +99,7 @@ validation(0)
 # Syntax = map(T, V);
 # T = transformation function,
 # V = vector of data to be transformed
-# Single expression to execute a block of actions
+# Single ex<pression to execute a block of actions
 numeros = [1,2,3,4,5]
 cuadrados = map(lambda x: x**2, numeros)
 
